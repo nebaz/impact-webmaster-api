@@ -1,0 +1,20 @@
+{
+  "name": "impact-webmaster-api",
+  "version": "1.0.0",
+  "main": "ImpactApi.js",
+  "description": "impact.com API integration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nebaz/impact-webmaster-api.git"
+  },
+  "homepage": "http://github.com/nebaz/impact-webmaster-api",
+  "author": "Nebaz <nebaz@ya.ru>",
+  "license": "MIT",
+  "keywords": [
+    "impact",
+    "webmaster",
+    "api"
+  ],
+  "dependencies": {
+  }
+}
